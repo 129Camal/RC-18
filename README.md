@@ -1,4 +1,4 @@
-Trabalho prático de Redes de Computadores
+Trabalhos práticos de Redes de Computadores
 
 MIEI UMinho
 
